@@ -1,0 +1,11 @@
+1: WIRE UP isAdmin checkbox toggle in /admin/users
+2: set up shoppingcart API routes and shoppingcart ui
+3: create front end ui for admin CRUD products
+    (add items, delete items, make items feautured, update items)
+4: create payment test API with paypal
+5: create payment ui
+6: create front end admin validation
+7: create admin payment management system
+    (view reciepts, view current order, view past orders, upload shipping tracker to specific user)
+8: create user profiles
+    (order history, payment history? maybe?, suggested items)
